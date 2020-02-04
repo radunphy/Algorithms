@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1135eb83-4310-4896-a0b4-2185b81ccbea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/StudentListings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentListings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ryan Dunphy &lt;s01131630@acad.tri-c.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XM2ZkYcqTgqWzG2LKd5KkAlAoS" />
@@ -28,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,14 +50,34 @@
       <option name="presentableId" value="Default" />
       <updated>1580841700327</updated>
       <workItem from="1580841703050" duration="37000" />
-      <workItem from="1580842234367" duration="14000" />
+      <workItem from="1580842234367" duration="261000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing onboard IntelliJ commit functionality">
+      <created>1580842397381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580842397382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing onboard IntelliJ commit functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing onboard IntelliJ commit functionality" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="995" y="24" key="CommitChangelistDialog2" timestamp="1580842587264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="995" y="24" key="CommitChangelistDialog2/-1360.152.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580842587264" />
+    <state x="1131" y="140" key="RollbackChangesDialog" timestamp="1580842568631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1131" y="140" key="RollbackChangesDialog/-1360.152.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1580842568631" />
     <state x="1122" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1580841703606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

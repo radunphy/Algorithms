@@ -10,7 +10,4 @@ public class StudentListings {
         address = a;
         number = num;
     }
-    public String test(String test){
-        return test;
-    }
 }
